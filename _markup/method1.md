@@ -3,10 +3,10 @@
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="20"/> 1. Check the description & instructions of homework in homework repo. (README)  
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-readme.png" />
 
-### <img src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/github-logo.png" width="20"/>2. Open main.c from homework repo.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="20"/>2. Open main.c from homework repo.  
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-main.png" />
 
-### <img src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-logo.png" width="20"/> 3. Prepare one project(just select the folder) with main.c in VSC.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-logo.png" width="20"/> 3. Prepare one project(just select the folder) with main.c in VSC.  
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-empty.png" />
 
 
