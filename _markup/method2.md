@@ -1,5 +1,4 @@
-# **Method 3**
-## *Codespaces Method*
+# **Method 2 (Codespaces)**
 
 If you want to modify files of Homework gitHub by **GitHub Codespaces**, a web-based development environment.
 
