@@ -7,6 +7,8 @@ This is a github for C programming language of Fall 2025 semester
    Office Location: Endicott building W19 232  
    Office Hours   : Mon. ~ Thr. (13:00 ~ 17:00)  
 
+---
+
 # **Uploading Files to GitHub Without GitHub Desktop or Git Commands**
 ## *(From local PC - Drag & Drop Method)*
 
