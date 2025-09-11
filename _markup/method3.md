@@ -1,1 +1,194 @@
-#
+# How to Guide
+## [How to use github](4.md/Howto-github.md)
+
+
+---
+
+## **Method 1: The easiest but most annoying way**
+1. Check the description & instructions of homework in homework repo. (README)  
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/hw_readme.png" />
+
+3. Prepare one project(just select the folder) with main.c in VSC.  
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/empty_vsc.png" />
+
+5. Open main.c from homework repo.  
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_120925.png" />
+
+7. Copy all code in main.c from homework repo.  
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121050.png" />
+
+9. Paste all code in main.c to VSC project.    
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121329.png" />
+
+11. Verify your modification at terminal of VSC (compile & run)
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121559.png" />  
+
+12. Copy all codes in VSC.
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121713.png" />
+
+13. Click 'pencil icon to edit main.c in homework repo.
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121714.png" />  
+
+14. Put all codes into homework repo.
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121935.png" />
+
+15. Press 'Commit changes' button in homework repo. (2 times)
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122018.png" />
+
+16. Check success sign(v) after few seconds. DONE
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122114.png" />
+
+### Failure case
+
+12. If you got failure sign(x) after few seconds, click 'x' icon
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122146.png" />  
+
+13. Click 'detail' button
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_131215.png" />  
+
+14. Check error information, then modify your code & do again from 6 above.  
+
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/hw_detail.png" />  
+    
+
+
+
+1. Go to [GitHub](https://github.com/) and **log in** to your account.
+2. Navigate to the repository where you want to upload files.
+<img width="794" height="308" alt="image" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_20115921.png" />
+
+### **Step 2: Open the Upload Interface**
+1. Inside the repository, click on the **"Add file"** button at the top.
+2. Select **"Upload files"** from the dropdown menu.
+
+### **Step 3: Drag & Drop Files**
+1. Drag the file(s) from your computer and drop them into the upload area.
+2. You can also click **"Choose your files"** to browse and select files manually.
+
+### **Step 4: Commit and Save**
+1. Enter a commit message (e.g., "Added new files").
+2. Click **"Commit changes"** to upload the files to GitHub.
+
+---
+
+## **Switching Between Users on a Shared PC**
+- If multiple users share the same PC, each person should **log out of GitHub** and **log in with their own account** before uploading files.
+- Ensure that you are in the correct repository before uploading.
+
+This method is the simplest way for beginners to upload files to GitHub without using additional software.
+
+
+---
+
+## **Switching Between Users on a Shared PC**
+- Each user should **log out of GitHub** and **log in with their own account** before using Codespaces.
+- Make sure you are in the correct repository before uploading files.
+
+This method is great for users who prefer a **web-based** solution without installing software.
+
+---
+
+# Git Usage Guide 
+
+## English Version
+
+### 1. Installing Git
+- Download and install Git from [git-scm.com](https://git-scm.com/).
+- Check the installation:
+  ```sh
+  git --version
+  ```
+
+### 2. Configuring Git
+- Set your user name and email:
+  ```sh
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
+  ```
+- Check your configuration:
+  ```sh
+  git config --list
+  ```
+
+### 3. Initializing a Repository
+- Create a new repository:
+  ```sh
+  git init
+  ```
+- Clone an existing repository:
+  ```sh
+  git clone <repository_url>
+  ```
+
+### 4. Basic Commands
+- Check the repository status:
+  ```sh
+  git status
+  ```
+- Add files to staging:
+  ```sh
+  git add <file>
+  ```
+- Commit changes:
+  ```sh
+  git commit -m "Your commit message"
+  ```
+- View commit history:
+  ```sh
+  git log
+  ```
+- Push changes to a remote repository:
+  ```sh
+  git push origin main
+  ```
+- Pull changes from a remote repository:
+  ```sh
+  git pull origin main
+  ```
+
+### 5. Branching and Merging
+- Create a new branch:
+  ```sh
+  git branch <branch_name>
+  ```
+- Switch to a branch:
+  ```sh
+  git checkout <branch_name>
+  ```
+- Merge branches:
+  ```sh
+  git merge <branch_name>
+  ```
+- Delete a branch:
+  ```sh
+  git branch -d <branch_name>
+  ```
+
+### 6. Undoing Changes
+- Undo the last commit:
+  ```sh
+  git reset --soft HEAD~1
+  ```
+- Discard uncommitted changes:
+  ```sh
+  git checkout -- <file>
+  ```
+- Revert a commit:
+  ```sh
+  git revert <commit_hash>
+  ```
+
+---
