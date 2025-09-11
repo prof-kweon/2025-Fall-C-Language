@@ -79,7 +79,7 @@ This method is great for users who prefer a **web-based** solution without insta
 
 ---
 
-# Git Usage Guide (English & Korean)
+# Git Usage Guide 
 
 ## English Version
 
