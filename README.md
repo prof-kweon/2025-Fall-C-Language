@@ -17,11 +17,11 @@ Please use one of the three methods below
 ## **Method 1: The easiest but most annoying way**
 1. Check the description & instructions of homework in homework repo. (README)  
 
-<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_120719.png" />
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/hw_readme.png" />
 
-3. Prepare one project(just select the folder) with VSC.  
+3. Prepare one project(just select the folder) with main.c in VSC.  
 
-<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_115921.png" />
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/empty_vsc.png" />
 
 5. Open main.c from homework repo.  
 
@@ -71,7 +71,7 @@ Please use one of the three methods below
 
 14. Check error information, then modify your code & do again from 6 above.  
 
-<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_131318.png" />  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/hw_detail.png" />  
     
 
 
