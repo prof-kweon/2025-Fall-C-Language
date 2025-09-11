@@ -9,15 +9,49 @@ This is a github for C programming language of Fall 2025 semester
 
 ---
 
-# **Uploading Files to GitHub Without GitHub Desktop or Git Commands**
-## *(From local PC - Drag & Drop Method)*
-
-If you want to upload files to your GitHub repository without using **GitHub Desktop** or **Git commands**, you can use the simple **Drag & Drop method** directly from your web browser.
+# **How to submit homework**
+Please use one of the three methods below
 
 ---
+## *(The easiest but most annoying way)*
 
-## **Method: Drag & Drop File Upload on GitHub**
-### **Step 1: Open Your GitHub Repository**
+## *********************************************
+## **Method 1: The easiest but most annoying way**
+## *********************************************
+### **Step 1: Open the homework repo & prepare **  
+1. Check the description & instructions of homework in homework repo. (README)  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_120719.png" />  
+2. Prepare one project(just select the folder) with VSC.  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_115921.png" />  
+3. Open main.c from homework repo.  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_120925.png" />  
+4. Copy all code in main.c from homework repo.  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121050.png" />  
+5. Paste all code in main.c to VSC project.    
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121329.png" />  
+6. Verify your modification at terminal of VSC (compile & run)
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121559.png" />  
+7. Copy all codes in VSC.
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121713.png" />
+8. Click 'pencil icon to edit main.c in homework repo.
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121714.png" />  
+9. Put all codes into homework repo.
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_121935.png" />
+10. Press 'Commit changes' button in homework repo. (2 times)
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122018.png" />
+11. Check success sign(v) after few seconds. DONE
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122114.png" />
+### Failure case
+12. If you got failure sign(x) after few seconds, click 'x' icon
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122146.png" />  
+13. Click 'detail' button
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_131215.png" />  
+14. Check error information, then modify your code & do again from 6 above.  
+<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11_122146.png" />  
+    
+
+
+
 1. Go to [GitHub](https://github.com/) and **log in** to your account.
 2. Navigate to the repository where you want to upload files.
 <img width="794" height="308" alt="image" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/img/2025-09-11%20115921.png" />
