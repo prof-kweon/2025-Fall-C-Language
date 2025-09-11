@@ -24,7 +24,7 @@
 
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-modified.png" />  
 
-### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 7. Verify your modification at terminal of VSC (compile & run)  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 7. Verify your modification at terminal of VSC (save files first, then compile & run it)  
 
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-main-run.png" />  
 
