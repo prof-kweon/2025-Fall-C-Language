@@ -4,58 +4,66 @@
 
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-readme.png" />
 
-### 2. <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> Open main.c from homework repo.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 2. Open main.c in homework repo.  
+
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-main.png" />
 
-### 3. <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> Prepare one project(just select the folder) with main.c in VSC.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 3. Copy all codes of main.c in homework repo.  
+
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-main-copied.png" />
+
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 4. Prepare one project(just select the folder) & create main.c file in VSC.  
+
 <img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-empty.png" />
 
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 5. Paste all codes of homework in main.c of VSC project.    
 
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-copied.png" />
 
-7. Copy all code in main.c from homework repo.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 6. Modify a main.c (Refer to the README.md in the homework repo for the homewwork description and instructions)
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_121050.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-modified.png" />  
 
-9. Paste all code in main.c to VSC project.    
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 7. Verify your modification at terminal of VSC (compile & run)  
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_121329.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-main-run.png" />  
 
-11. Verify your modification at terminal of VSC (compile & run)
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/vsc-logo.png" width="25"/> 8. Copy all codes of VSC.  
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_121559.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/vsc-done.png" />
 
-12. Copy all codes in VSC.
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 9. Click 'pencil' icon to edit main.c in homework repo.
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_121713.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-edit.png" />  
 
-13. Click 'pencil icon to edit main.c in homework repo.
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 10. Paste all codes in main.c of homework repo.
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_121714.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/_markup/main/img/hw-main-copied--.png" />
 
-14. Put all codes into homework repo.
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 11. Press 'Commit changes' button in homework repo. 
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/_markup/main/img/2025-09-11_121935.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-commit.png" />
 
-15. Press 'Commit changes' button in homework repo. (2 times)
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 12. Press 'Commit changes' button one more time in homework repo. 
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_122018.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-commit2.png" />
 
-16. Check success sign(v) after few seconds. DONE
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 13. Check success sign(v) after few seconds. DONE
 
-<img width="794" height="308" alt="2025-09-11 115921" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_122114.png" />
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-success.png" />
 
-### Failure case
+## Failure case
 
-12. If you got failure sign(x) after few seconds, click 'x' icon
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 13. If you got failure sign(x) after few seconds, click 'x' icon
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_122146.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-failure.png" />  
 
-13. Click 'detail' button
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 14. Click 'detail' button to check errors
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/2025-09-11_131215.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-failure-detail.png" />  
 
-14. Check error information, then modify your code & do again from 6 above.  
+### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 15. Check error information, then modify your code & do again from 6 above.  
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw_detail.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw_error-msg.png" />  
     
 
