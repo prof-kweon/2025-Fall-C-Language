@@ -3,7 +3,7 @@
 
 ## **Method 1: The easiest but most annoying way**
 
-# 1. Check the description & instructions of homework in homework repo. (README)  
+###<img src="[images](https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/github-logo.png" width="20"/> 1. Check the description & instructions of homework in homework repo. (README)  
 [github-icon]<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-readme.png" />
 
 # 2. Open main.c from homework repo.  
