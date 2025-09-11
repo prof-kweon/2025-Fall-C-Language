@@ -38,7 +38,7 @@
 
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 10. Paste all codes in main.c of homework repo.
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/_markup/main/img/hw-main-copied.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-main-copied.png" />  
 
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 11. Press 'Commit changes' button in homework repo. 
 
@@ -64,6 +64,6 @@
 
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/_markup/img/github-logo.png" width="25"/> 15. Check error information, then modify your code & do again from 6 above.  
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw_error-msg.png" />  
+<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/_markup/img/hw-error-msg.png" />  
     
 
