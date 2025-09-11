@@ -20,7 +20,7 @@ If you want to upload files to your GitHub repository without using **GitHub Des
 ### **Step 1: Open Your GitHub Repository**
 1. Go to [GitHub](https://github.com/) and **log in** to your account.
 2. Navigate to the repository where you want to upload files.
-<img width="794" height="308" alt="image" src="https://github.com/user-attachments/assets/bf00b850-0b82-43ab-9a31-a4ac80263dfe" />
+<img width="794" height="308" alt="image" src="https://github.com/prof-kweon/2025-Fall-C-Language/main/img/2025-09-11%20115921.png" />
 
 ### **Step 2: Open the Upload Interface**
 1. Inside the repository, click on the **"Add file"** button at the top.
