@@ -16,6 +16,6 @@ Please use one of the three methods below
 
 ## [Method 2: Using codespaces](_markup/method2.md)
 
-## [Method 3: Using git clone](_markup/method3.md)
+## [Method 3: Using git clone (recommend) ](_markup/method3.md)
 
 ---
