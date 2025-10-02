@@ -1,13 +1,13 @@
 # 2025-Fall-C-Language
 This is a github for C programming language of Fall 2025 semester
 
-Go to [Professor Kweon’s Lab Website](https://prof-kweon.github.io/2025-Fall-C-Language/)
+Go to 🌐 Professor Kweon’s Lab Website](https://prof-kweon.github.io/2025-Fall-C-Language/)
 
 ### Professor: Kweon, Tae Deok  
-   Email: tdkweon@wsu.ac.kr  
-   Office Phone   : (042) 629-6647  
-   Office Location: Endicott building W19 232  
-   Office Hours   : Mon. ~ Thr. (13:00 ~ 17:00)  
+   ✉️ Email: tdkweon@wsu.ac.kr  
+   📞 Office Phone   : (042) 629-6647  
+   📍 Office Location: Endicott building W19 232  
+   ⏰ Office Hours   : Mon. ~ Thr. (13:00 ~ 17:00)  
 
 ---
 
