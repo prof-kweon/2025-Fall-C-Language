@@ -1,8 +1,8 @@
 # **Method 1: The easiest but most annoying way**
 
-### <img src="./img/github-logo.png" width="25"/> 1. Check the description & instructions of homework in homework repo. (README)   
+### <img src="img/github-logo.png" width="25"/> 1. Check the description & instructions of homework in homework repo. (README)   
 
-<img width="794" height="308" src="./img/hw-readme.png" />
+<img width="794" height="308" src="img/hw-readme.png" />
 
 ### <img src="./img/github-logo.png" width="25"/> 2. Open main.c in homework repo.  
 
