@@ -18,11 +18,18 @@ This repository contains course materials, homework submission instructions, and
 - Extra resources and readings are in the `Reference` folder.  
 
 # 📚 Lecture Notes
-- [Week 1 Lecture Note](./LectureNote/week1.pdf)
-- [Week 2 Lecture Note](./LectureNote/week2.pdf)
-- [Week 3 Lecture Note](./LectureNote/week3.pdf)
-- [Week 4 Lecture Note](./LectureNote/week4.pdf)
-- [Week 5 Lecture Note](./LectureNote/week5.pdf)
+- [Week 1 Lecture Note](./LectureNotes/week1.pdf)
+- [Week 2 Lecture Note](./LectureNotes/week2.pdf)
+- [Week 3 Lecture Note](./LectureNotes/week3.pdf)
+- [Week 4 Lecture Note](./LectureNotes/week4.pdf)
+- [Week 5 Lecture Note](./LectureNotes/week5.pdf)
+
+- [Ch.1 Programming Concept](./LectureNotes/Ch.1%20Programming%20concept.pdf)
+- [Ch.2 Program Writing Process](./LectureNotes/Ch.2%20Program%20Writing%20Process.pdf)
+- [Ch.3 C Program Components](./LectureNotes/Ch.3%20C%20Program%20Components.pdf)
+- [Ch.4 Variables and Data Types](./LectureNotes/Ch.4%20Variables%20and%20Data%20Types.pdf)
+- [Ch.5 Formulas and operator](./LectureNotes/Ch.5%20Formulas%20and%20operator.pdf)
+ 
 
 ## 📝 How to Submit Homework
 Please choose one of the following submission methods:
