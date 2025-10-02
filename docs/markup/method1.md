@@ -2,7 +2,7 @@
 
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/docs/markup/img/github-logo.png" width="25"/> 1. Check the description & instructions of homework in homework repo. (README)   
 
-<img width="794" height="308" src="https://github.com/prof-kweon/2025-Fall-C-Language/blob/main/docs/markup/img/hw-readme.png" />
+<img width="794" height="308" src="./img/hw-readme.png" />
 
 ### <img src="https://raw.githubusercontent.com/prof-kweon/2025-Fall-C-Language/main/docs/markup/img/github-logo.png" width="25"/> 2. Open main.c in homework repo.  
 
