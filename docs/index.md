@@ -1,4 +1,4 @@
-# 🎓 2025-Fall-C-Language
+# 🎓 Woo Song University, AI Bigdata
 Welcome to the **C Programming Language (Fall 2025)** GitHub repository.  
 This repository contains course materials, homework submission instructions, and additional resources.  
 
