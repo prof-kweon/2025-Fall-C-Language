@@ -23,7 +23,6 @@ This repository contains course materials, homework submission instructions, and
 - [Week 3 Lecture Note](./LectureNotes/week3.pdf)
 - [Week 4 Lecture Note](./LectureNotes/week4.pdf)
 - [Week 5 Lecture Note](./LectureNotes/week5.pdf)
-
 - [Ch.1 Programming Concept](./LectureNotes/Ch.1%20Programming%20concept.pdf)
 - [Ch.2 Program Writing Process](./LectureNotes/Ch.2%20Program%20Writing%20Process.pdf)
 - [Ch.3 C Program Components](./LectureNotes/Ch.3%20C%20Program%20Components.pdf)
