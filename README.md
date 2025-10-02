@@ -12,10 +12,10 @@ This is a github for C programming language of Fall 2025 semester
 # **How to submit homework**
 Please use one of the three methods below
 
-## [Method 1: The easiest but most annoying way](_markup/method1.md)
+## [Method 1: The easiest but most annoying way](./docs/markup/method1.md)
 
-## [Method 2: Using codespaces](_markup/method2.md)
+## [Method 2: Using codespaces](./docs/markup/method2.md)
 
-## [Method 3: Using git clone (recommend) ](_markup/method3.md)
+## [Method 3: Using git clone (recommend) ](./docs/markup/method3.md)
 
 ---
