@@ -17,6 +17,13 @@ This repository contains course materials, homework submission instructions, and
 - Lecture slides are located in the `LectureNotes` folder.  
 - Extra resources and readings are in the `Reference` folder.  
 
+# 📚 Lecture Notes
+- [Week 1 Lecture Note](./LectureNote/week1.pdf)
+- [Week 2 Lecture Note](./LectureNote/week2.pdf)
+- [Week 3 Lecture Note](./LectureNote/week3.pdf)
+- [Week 4 Lecture Note](./LectureNote/week4.pdf)
+- [Week 5 Lecture Note](./LectureNote/week5.pdf)
+
 ## 📝 How to Submit Homework
 Please choose one of the following submission methods:
 
