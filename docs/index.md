@@ -21,8 +21,8 @@ This repository contains course materials, homework submission instructions, and
 Please choose one of the following submission methods:
 
 1. [📄 Method 1: The easiest but most annoying way](./markup/method1.md)  
-2. [💻 Method 2: Using Codespaces](markup/method2.md)  
-3. [🔗 Method 3: Using Git Clone (Recommended)](https://github.com/username/2025-Fall-C-Language/blob/main/markup/method3.md)  
+2. [💻 Method 2: Using Codespaces](./markup/method2.md)  
+3. [🔗 Method 3: Using Git Clone (Recommended)](./markup/method3.md)  
 
 ---
 
