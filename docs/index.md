@@ -30,7 +30,7 @@ This repository contains course materials, homework submission instructions, and
 - [Ch.3 C Program Components](./LectureNotes/Ch.3%20C%20Program%20Components.pdf)
 - [Ch.4 Variables and Data Types](./LectureNotes/Ch.4%20Variables%20and%20Data%20Types.pdf)
 - [Ch.5 Formulas and operator](./LectureNotes/Ch.5%20Formulas%20and%20operator.pdf)
-- [Ch.6 Conditional Statements](./LectureNotes/Ch.6%02Conditional%20Statements.pdf)
+- [Ch.6 Conditional Statements](./LectureNotes/Ch.6%20Conditional%20Statements.pdf)
 - [Ch.7 Loops](./LectureNotes/Ch.7%20Loops.pdf)
  
 
