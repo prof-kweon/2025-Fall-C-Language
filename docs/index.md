@@ -28,7 +28,7 @@ This repository contains course materials, homework submission instructions, and
 - [Week 8 Lecture Note](./LectureNotes/W8.pdf)
 - [Week 9 Lecture Note](./LectureNotes/W9.pdf)
  
-# Chapters  
+# 📚 Chapters  
 
 - [Ch.1 Programming Concept](./LectureNotes/Ch.1%20Programming%20concept.pdf)
 - [Ch.2 Program Writing Process](./LectureNotes/Ch.2%20Program%20Writing%20Process.pdf)
