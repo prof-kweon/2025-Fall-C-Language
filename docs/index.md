@@ -37,8 +37,15 @@ This repository contains course materials, homework submission instructions, and
 - [Ch.7 Loops](./LectureNotes/Ch.7%20Loops.pdf)
 - [Ch.8 Functions](./LectureNotes/Ch.8%20Functions.pdf)
 - [Ch.9 Functions and Variables](./LectureNotes/Ch.9%20Functions%20and%20Variables.pdf)
- 
-
+- [Ch.10 Array](./LectureNotes/Ch.10%20Array.pdf)
+- [Ch.11 Pointers](./LectureNotes/Ch.11%20Pointers.pdf)
+- [Ch.12 Characters and Strings](./LectureNotes/Ch.12%20Characters%20and%20Strings.pdf)
+- [Ch.13 Structure](./LectureNotes/Ch.13%20Structure.pdf)
+- [Ch.14 Using Pointers](./LectureNotes/Ch.14%20Using%20Pointers.pdf)
+- [Ch.15 File Input_Output](./LectureNotes/Ch.15%20File%20Input_Output.pdf)
+- [Ch.16 Preprocessing and Multisource Files](./LectureNotes/Ch.16%20Preprocessing%20and%20Multisource%20Files.pdf)
+- [Ch.17 Dynamic Memory and Linked Lists](./LectureNotes/Ch.17%20Dynamic%20Memory%20and%20Linked%20Lists.pdf)
+  
 ## 📝 How to Submit Homework
 Please choose one of the following submission methods:
 
