@@ -35,8 +35,8 @@ This repository contains course materials, homework submission instructions, and
 - [Ch.5 Formulas and operator](./LectureNotes/Ch.5%20Formulas%20and%20operator.pdf)
 - [Ch.6 Conditional Statements](./LectureNotes/Ch.6%20Conditional%20Statements.pdf)
 - [Ch.7 Loops](./LectureNotes/Ch.7%20Loops.pdf)
-- [Ch.8 Loops](./LectureNotes/Ch.7%20Functions.pdf)
-- [Ch.9 Loops](./LectureNotes/Ch.9%20Functions%20and%20Variables.pdf)
+- [Ch.8 Functions](./LectureNotes/Ch.7%20Functions.pdf)
+- [Ch.9 Functions and Variables](./LectureNotes/Ch.9%20Functions%20and%20Variables.pdf)
  
 
 ## 📝 How to Submit Homework
