@@ -25,6 +25,9 @@ This repository contains course materials, homework submission instructions, and
 - [Week 5 Lecture Note](./LectureNotes/W5.pdf)
 - [Week 6 Lecture Note](./LectureNotes/W6.pdf)
 - [Week 7 Lecture Note](./LectureNotes/W7.pdf)
+- [Week 8 Lecture Note](./LectureNotes/W8.pdf)
+- [Week 9 Lecture Note](./LectureNotes/W9.pdf)
+   
 - [Ch.1 Programming Concept](./LectureNotes/Ch.1%20Programming%20concept.pdf)
 - [Ch.2 Program Writing Process](./LectureNotes/Ch.2%20Program%20Writing%20Process.pdf)
 - [Ch.3 C Program Components](./LectureNotes/Ch.3%20C%20Program%20Components.pdf)
@@ -32,6 +35,8 @@ This repository contains course materials, homework submission instructions, and
 - [Ch.5 Formulas and operator](./LectureNotes/Ch.5%20Formulas%20and%20operator.pdf)
 - [Ch.6 Conditional Statements](./LectureNotes/Ch.6%20Conditional%20Statements.pdf)
 - [Ch.7 Loops](./LectureNotes/Ch.7%20Loops.pdf)
+- [Ch.8 Loops](./LectureNotes/Ch.7%20Functions.pdf)
+- [Ch.9 Loops](./LectureNotes/Ch.9%20Functions%20and%20Variables.pdf)
  
 
 ## 📝 How to Submit Homework
